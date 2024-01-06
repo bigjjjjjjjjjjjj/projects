@@ -19,9 +19,4 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-class GameActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.main)
-    }
-}
+
