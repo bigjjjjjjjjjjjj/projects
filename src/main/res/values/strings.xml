@@ -2,5 +2,6 @@
     <string name="app_name">app2</string>
     <string name="start">start</string>
     <string name="bottomname">click</string>
+    <string name="totext"> 請輸入\n</string>
 
 </resources>
